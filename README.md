@@ -3,7 +3,7 @@
 <table>
   <tr>
     <th>
-      <img src="https://media.tenor.com/xcwGmZSvg38AAAAj/tadc-bubble.gif" alt="" width="200"/><br>
+      <img src="https://files.catbox.moe/7bfzxm.png" alt="" width="300"/><br>
       <br>
       $\color{#d4f6fb}{\textsf{「 Ace / Annus 」}}$ <br>
       $\color{#7899e3}{\textsf{They / Them }}$ <br>
