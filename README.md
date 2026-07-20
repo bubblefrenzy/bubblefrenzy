@@ -9,11 +9,11 @@
       $\color{#7899e3}{\textsf{They / Them }}$ <br>
       $\color{#d4f6fb}{\textsf{⤷ 20 yrs of age }}$ <br>
       <br>
-      $\color{#f67c8d}{\textsf{I will block you freely if I sense some off-putting vibes.}}$ <br>
-      <br>
 
 </th>
 </tr>
 </table>
+
+$\color{#f67c8d}{\textsf{I will block you freely if I sense some off-putting vibes.}}$
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=post-m0rtem&label=Timeline%20Fractures&labelColor=%238895e3&countColor=%237049b6&style=flat&labelStyle=none)
