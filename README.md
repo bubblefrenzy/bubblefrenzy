@@ -3,11 +3,11 @@
 <table>
   <tr>
     <th>
-      <img src="https://files.catbox.moe/7bfzxm.png" alt="" width="300"/><br>
+      <img src="https://media.tenor.com/REx0kAPDghAAAAAi/ralsei-flower.gif" alt="" width="200"/><br>
       <br>
-      $\color{#d4f6fb}{\textsf{「 Ace / Annus 」}}$ <br>
-      $\color{#7899e3}{\textsf{They / Them }}$ <br>
-      $\color{#d4f6fb}{\textsf{⤷ 20 yrs of age }}$ <br>
+      $\color{#89d8af}{\textsf{「 Ace / Annus 」}}$ <br>
+      $\color{#97d4c4}{\textsf{They / Them }}$ <br>
+      $\color{#a0bed5}{\textsf{⤷ 20 yrs of age }}$ <br>
       <br>
 
 </th>
