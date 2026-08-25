@@ -1,5 +1,7 @@
 <div align="center">
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=bubblefrenzy&label=Residents&labelColor=%23c0cece&countColor=%238e9faa&labelStyle=none)
+
 <table>
   <tr>
     <th>
@@ -14,6 +16,30 @@
 </tr>
 </table>
 
-$\color{#f67c8d}{\textsf{I will block you freely if I sense some off-putting vibes.}}$
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=post-m0rtem&label=Timeline%20Fractures&labelColor=%238895e3&countColor=%237049b6&style=flat&labelStyle=none)
+<details closed>
+  <summary> ${{\color{#89d8af} ♠}} $</summary>
+<br>
+  $\color{#ccd5c7}{\textsf{> Avoidant, Mainly sticking with friends on this game}}$
+<br>
+<br>
+   $\color{#e2e7e6}{\textsf{> Interactions can be made with extreme caution}}$
+<br>
+<br>
+  $\color{#ccd5c7}{\textsf{> I don't initiate conversations first unless you're one of the few}}$
+<br>
+  $\color{#ccd5c7}{\textsf{people I  feel most comfortable with.}}$
+<br>
+<br>
+   $\color{#e2e7e6}{\textsf{> I am a fluctuation of emotions, keep that in mind}}$
+<br>
+<br>
+<br>
+  $\color{#c5d483}{\textsf{> More info is available on my strawpage}}$
+<br>
+<br>
+<br>
+$\color{#f67c8d}{\textsf{> I will block you freely if I sense some off-putting vibes.}}$
+<br>
+<br>
+<br>
+$\color{#eef1f0}{\textsf{Memento}}$ $\color{#676281}{\textsf{ Mori}}$
